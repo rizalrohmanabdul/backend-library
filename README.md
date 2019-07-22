@@ -1,7 +1,7 @@
-<h1 align="center">Full Stack Library</h1>
+<h1 align="center">Backend Library</h1>
 
 <p align="center">
-  Built with React js, Exprees, Node js and MySql.
+  Built with Exprees, Node js and MySql.
 </p>
 
 ## Table of Contents
@@ -20,7 +20,6 @@
 
 ## Requirements
 * [`npm`](https://www.npmjs.com/get-npm)
-* [`react-js`](https://reactjs.org/docs/getting-started.html)
 * [`node-js`](https://nodejs.org/en/docs/)
 
 ## Usage for development
